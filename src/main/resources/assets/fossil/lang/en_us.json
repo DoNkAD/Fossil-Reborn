@@ -1,0 +1,19 @@
+{
+  "itemGroup.fossil.wands": "Wands",
+  "item.fossil.charged_wand.tooltip": "Press §eSHIFT§r for more Information",
+
+  "item.fossil.revival_wand": "Revival Wand",
+
+  "item.fossil.strulus_fossil": "Strulus Fossil",
+  "item.fossil.strulus_fragment_essence": "Strulus Fragment Essence",
+  "item.fossil.strulus_essence":"Strulus Essence",
+  "item.fossil.strulus_revival_wand": "Strulus Revival Wand",
+  "item.fossil.strulus_revival_wand.shift": "Right Click to summon the strulus",
+  "entity.fossil.strulus": "Strulus",
+
+  "advancements.fossil.necromancer": "The Start Of The Necromancer",
+  "advancements.desc.fossil.necromancer": "You Craft The Revival Wand",
+  "advancements.fossil.thanks": "Fossil Reborn",
+  "advancements.desc.fossil.thanks": "Thanks For play with my mod"
+
+}

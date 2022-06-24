@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "fossil:strulus_fossil"
+  },
+  "result": "fossil:strulus_fragment_essence",
+  "experience": 2.1,
+  "cookingtime": 100
+}

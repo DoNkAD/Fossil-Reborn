@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fossil:strulus_fragment_essence"
+    }
+  },
+  "result": {
+    "item": "fossil:strulus_essence",
+    "count": 1
+  }
+}

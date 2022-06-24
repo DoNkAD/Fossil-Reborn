@@ -1,0 +1,37 @@
+{
+  "parent": "fossil:root",
+  "display": {
+    "icon": {
+      "item": "fossil:strulus_revival_wand"
+    },
+    "title": {
+      "translate": "advancements.fossil.necromancer"
+    },
+    "description": {
+      "translate": "advancements.desc.fossil.necromancer"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "revival_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "fossil:revival_wand"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "revival_wand"
+    ]
+  ]
+}

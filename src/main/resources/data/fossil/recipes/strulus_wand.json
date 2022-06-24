@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "fossil:revival_wand"
+  },
+  "addition": {
+    "item": "fossil:strulus_essence"
+  },
+  "result": {
+    "item": "fossil:strulus_revival_wand"
+  }
+}

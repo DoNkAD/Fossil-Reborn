@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "fossil",
+  "version": "1.0-19",
+
+  "name": "Fossil Reborn",
+  "description": "Some of history never come bad!",
+  "authors": [
+    "DoNkAD"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/fossil/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.donkad.fossil.FossilReborn"
+    ],
+    "client": [
+      "net.donkad.fossil.FossilClient"
+    ]
+  },
+  "mixins": [
+    "fossil.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
